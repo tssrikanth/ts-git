@@ -1,3 +1,3 @@
-male
-female
-other
+j
+k
+l
